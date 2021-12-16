@@ -3,7 +3,7 @@
 Currently, these files are to determine if there are duplicates in this data, and to combine several datasets into one longer CSV. This longer CSV will eventually be used for data analysis for this story.
 
 **> muslim_ban.csv**
-This is a file downloaded from data collected in Google Sheets.
+This is a file downloaded from data collected in Google Sheets. This file has been removed but Nausheen has it.
 
 **> muslim_ban.py**
 This checks for duplicates in muslim_ban.csv using Pandas.
